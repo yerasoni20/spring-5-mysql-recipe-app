@@ -3,4 +3,4 @@
 [![CircleCI](https://circleci.com/gh/yerasoni20/spring-5-mysql-recipe-app/tree/master.svg?style=svg)](https://circleci.com/gh/yerasoni20/spring-5-mysql-recipe-app/tree/master)
 
 
-This repository is for an example application built in my Spring Framework 5 
+This application using the functionality of food recipes by managing the preparation time, servings, ingredients, directions etc. This functionality is achieved using Spring MVC, MySQL, Spring Data JPA.
