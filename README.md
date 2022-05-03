@@ -4,3 +4,10 @@
 
 
 This application using the functionality of food recipes by managing the preparation time, servings, ingredients, directions etc. This functionality is achieved using Spring MVC, MySQL, Spring Data JPA.
+
+It demonstrates the following steps:-
+
+1) Configuration of MySQL
+2) CircleCI Configuration
+3) Schema Generation of MySQL
+4) Refactor Database Initialization of MySQL
